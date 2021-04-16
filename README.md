@@ -1,2 +1,3 @@
 # shydroid
-Code for my discord.py bot.
+
+## Empty so far.
